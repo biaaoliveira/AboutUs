@@ -7,7 +7,7 @@
 
 ##### Já hávia utilizado o Git para alguns projetos que fiz anteriormente, principalmente os comandos mais básicos e rotineiros.
 
-Pude aprofundar os conhecimentos em **_branchs_** e o **_markdown_** para estruturar melhor os meus projetos e facilitar o entendimento de outros usuários.
+    Pude aprofundar os conhecimentos em **_branchs_** e o **_markdown_** para estruturar melhor os meus projetos e facilitar o entendimento de outros usuários.
 
 * Contribuidor do repositório inserido:
   <br> 
